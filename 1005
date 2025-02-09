@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Contact</title>
+</head>
+<body>
+    <header>
+        <h1>Contactez-nous</h1>
+    </header>
+
+    <form>
+        <label>Nom : <input type="text" name="nom" required></label><br>
+        <label>Email : <input type="email" name="email" required></label><br>
+        <label>Message : <textarea name="message" rows="3" required></textarea></label><br>
+        <input type="submit" value="Envoyer">
+        <input type = "text" name = "123">
+    </form>
+
+    <footer>
+        <a href="index.html">Retour à l'accueil</a>
+        <p>&copy;2025 Musée des Merveilles</p>
+    </footer>
+</body>
+</html>
